@@ -6,7 +6,7 @@
 ## About The Project
 
 Project of 10th grade that i had to do, making a game with assembly.
-I made TicTacToe game but also tried to do Snake and in the end i choose Snake 
+I made TicTacToe game but also tried to do Snake and in the end i chose Snake 
 to be the project that will be graded
 
 ### Built With
