@@ -19,7 +19,7 @@ tasm /zi name
 tlink /v name
 
 ### Example
-![](example.jpeg)
+![](example.png)
 
 ### Prerequisites
 
