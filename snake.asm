@@ -16,7 +16,7 @@ snakeHeadColor db 4
 COLOR db 2
 ;text mgs values
 msgScore db 'Score:$'
-msg1 db 'Made by: well,me
+msg1 db 'Made by: well,me$'
 msg2 db 'Game name: Snake$'
 msg3 db 'Explained:$'
 msg4 db 'The player control the snake$'
